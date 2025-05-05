@@ -158,7 +158,7 @@ section .title::before{
     left: 50%;
     width: 180px;
     height: 3px;
-    background:    #4b8df0;
+    background:    #1ABC9C;
     transform: translateX(-50%);
     
 }
@@ -167,9 +167,9 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color:   #4b8df0;
+    color:   #1ABC9C;
     padding: 0 5px;
-    background:    #4b8df0;
+    background:    #1ABC9C;
     transform: translateX(-50%);
 }
 
@@ -184,7 +184,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #4b8df0;
+    background: #1ABC9C;
 }
 .navbar .max-width{
     display: flex;
@@ -199,7 +199,7 @@ section .title::after{
     text-decoration: none;
 }
 .navbar .logo a span{
-    color:    #4b8df0;
+    color:    #1ABC9C;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -222,7 +222,7 @@ section .title::after{
 }
 .navbar .menu li a:hover{
     color: white;
-    background-color: #4b8df0;
+    background-color: #1ABC9C;
     border-radius: 10px;
     padding: 8px;
     margin: 0 3px;
@@ -243,7 +243,7 @@ section .title::after{
         top: 100%;
         left: 0;
         width: 100%;
-        background-color: #4b8df0;
+        background-color: #1ABC9C;
         text-align: center;
     }
 
@@ -297,7 +297,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background:    rgb(51, 51, 51);
+    background:    #1ABC9C;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -354,19 +354,19 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color:    #4b8df0;
+    color:    #1ABC9C;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background:    #4b8df0;
+    background:    #1ABC9C;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid    #4b8df0;
+    border: 2px solid    #1ABC9C;
     transition: all 0.3s ease;
 }
 .home .home-content .text-2{
@@ -375,7 +375,7 @@ section .title::after{
     font-size: 50px;
 }
 .home .home-content .text-2 span{
-    color: #4b8df0;
+    color: #1ABC9C;
 }
 .home .home-content .text-3{
     color: #222;
@@ -383,7 +383,7 @@ section .title::after{
     font-size: 25px;
 }
 .home .home-content a:hover{
-    color:    #4b8df0;
+    color:    #1ABC9C;
 }
 
 
@@ -410,7 +410,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color:    #4b8df0;
+    color:    #1ABC9C;
 }
 #aboutMe p{
     font-size: 16px;
@@ -418,19 +418,19 @@ section .title::after{
 
 .about .about-content .right a{
     display: inline-block;
-    background:    #4b8df0;
+    background:    #1ABC9C;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid    #4b8df0;
+    border: 2px solid    #1ABC9C;
     transition: all 0.3s ease;
     text-decoration: none;
 }
 .about .about-content .right a:hover{
-    color:    #4b8df0;
+    color:    #1ABC9C;
     background: none;
 }
 #titre_connaissances{
@@ -444,16 +444,16 @@ section .title::after{
 .projets, .teams{
     color:#fff;
     /*background: #808080;*/
-    background: #4b8df0;
+    background: #1ABC9C;
 }
 /* ------------------ TITLE SECTION --------------------------------*/
 .projets .title::before,
 .teams .title::before{
-    background:    rgb(51, 51, 51);
+    background:    #1ABC9C;
 }
 .projets .title::after,
 .teams .title::after{
-    background: rgb(51, 51, 51);
+    background: #1ABC9C;
     content: "";
 }
 /* ------------------ FIN TITLE SECTION --------------------------------*/
@@ -479,7 +479,7 @@ section .title::after{
     background:    white;
 }
 .projets .serv-content .card:hover .text {
-    color: rgb(51, 51, 51); /* Remplacez par votre couleur souhaitée */
+    color: #1ABC9C; /* Remplacez par votre couleur souhaitée */
 }
 /* ------------------ FIN PARTIE CARD --------------------------------*/
 .projets .serv-content .card .box{
@@ -490,7 +490,7 @@ section .title::after{
 }
 .projets .serv-content .card i{
     font-size: 50px;
-    color:    #4b8df0;
+    color:    #1ABC9C;
     transition: color 0.3s ease;
 }
 .projets .serv-content .card:hover i{
@@ -513,13 +513,13 @@ section .title::after{
 #experiences
 {
     /*background: #808080;*/
-    background: #4b8df0;
+    background: #1ABC9C;
 }
 .white-divider
 {
     width: 100px;
     height: 2px;
-    background:    #4b8df0;
+    background:    #1ABC9C;
     margin: 0 auto;
 }
 #experiences .heading h2
@@ -528,7 +528,7 @@ section .title::after{
 }
 .experiences .container .heading .title::before
 {
-    background-color: rgb(51, 51, 51);
+    background-color: #1ABC9C;
 }
 .timeline
 {
@@ -556,7 +556,7 @@ section .title::after{
     clear: both;
 }
 .timeline li::marker{
-    color: #4b8df0;
+    color: #1ABC9C;
 }
 .timeline >li:before, .timeline > li:after
 {
@@ -565,7 +565,7 @@ section .title::after{
 }
 .timeline li .timeline-badge
 {
-    color:    #4b8df0;
+    color:    #1ABC9C;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -630,7 +630,7 @@ section .title::after{
 }
 .timeline-heading h4
 {
-    color:    #4b8df0;
+    color:    #1ABC9C;
 }
 .projet{
     width: 100%;
@@ -650,7 +650,7 @@ section .title::after{
     position:static;
     color: white;
     z-index: 0;
-    border: 3px solid    #4b8df0;
+    border: 3px solid    #1ABC9C;
     margin-bottom: 5px;
     background: black;
     overflow: hidden;
@@ -670,7 +670,7 @@ section .title::after{
 }
 #skill1{
     height: 200px;
-    background-color: #4b8df0;
+    background-color: #1ABC9C;
     border-radius: 10px;
 }
 .custom-button{
@@ -686,7 +686,7 @@ section .title::after{
     margin-top: 8rem;
 }
 .proof-card{
-    background-color: #4b8df0;
+    background-color: #1ABC9C;
     color: rgb(51, 51, 51);
     border: 0px;
     border-radius: 5px;
@@ -703,7 +703,7 @@ section .title::after{
 footer {
     margin-top: 100px;
     /*background: #808080;*/
-    background: #4b8df0;
+    background: #1ABC9C;
     padding: 80px 23px;
     color: #fff;
     text-align: center;
